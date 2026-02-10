@@ -1,2 +1,0 @@
-# RFIM
-RFI Mapper
